@@ -6,7 +6,8 @@ A three-page romantic website for GitHub Pages.
 - `index.html` — welcome page
 - `letter.html` — love letter
 - `memories.html` — photo memories
-- `assets/images/memory-1.jpg` through `memory-4.jpg` — replace with your photos
+- `assets/images/memory-1.jpg` through `memory-4.jpg` — replace with your photo
+  
 
 ## Song
 The music link on all three pages opens Chris Grey's official lyric video for **LET THE WORLD BURN** on YouTube. Playback takes place on YouTube; it does not autoplay, and it may restart when navigating between pages.
